@@ -1,2 +1,2 @@
 # Algoritmo
-Caderno de exercícios de pseudo código
+Exercicios de pseudo código
